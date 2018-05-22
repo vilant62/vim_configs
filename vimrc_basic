@@ -1,0 +1,8 @@
+# basic setting for vim editor
+set nocompatible
+syntax on
+set backspace=2
+set number
+colorscheme desert
+set tabstop=4
+set shiftwidth=4
